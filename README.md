@@ -1,5 +1,6 @@
 # Sudoku Game
 A GUI-based Sudoku game built using Python and Pygame.
+[Download Sudoku Game](../../releases/latest)
 
 ## Features
 - Interactive 9×9 Sudoku board
