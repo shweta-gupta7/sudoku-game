@@ -16,6 +16,18 @@ A GUI-based Sudoku game built using Python and Pygame.
 - Python
 - Pygame
 
+## Game Screenshots
+
+### Gameplay
+![Sudoku Gameplay](gameplay.jpeg)
+
+### Highlight Blocks
+![Highlight Blocks](highlights.jpeg)
+
+### Game Completion
+![Congratulations Screen](congratulations.jpeg)
+
+
 ## How to Run
 1. Install Python.
 2. Install Pygame:
