@@ -22,3 +22,8 @@ A GUI-based Sudoku game built using Python and Pygame.
 
 ```bash
 pip install pygame
+
+3. Run the game:
+
+```bash
+python MySudoku.py
