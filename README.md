@@ -16,14 +16,16 @@ A GUI-based Sudoku game built using Python and Pygame.
 - Python
 - Pygame
 
-## 🎮 How to Run
+## How to Run
 1. Install Python.
 2. Install Pygame:
 
 ```bash
 pip install pygame
+```
 
 3. Run the game:
 
 ```bash
 python MySudoku.py
+```
